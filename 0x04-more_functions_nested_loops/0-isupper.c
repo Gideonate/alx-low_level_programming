@@ -1,4 +1,5 @@
-#include "holberton.h"
+#include "main.h"
+#include <studio.h>
 
 /**
  * _isupper - function that checks for uppercase characters
